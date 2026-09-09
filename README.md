@@ -20,4 +20,4 @@ The included `.romcode` file starts with every bit set to zero. Replace its cont
 
 ## Prepare for tapeout
 
-For tapeout, [contact ECOS](mailto:contact@openecos.com) with your ROM configuration and final content. We will confirm the content and generate the matching layout. The content is fixed in the fabricated ROM; editing the simulation file changes the simulation only.
+For tapeout, add a note to your ECOS Factory order requesting ROM content replacement and matching layout generation. We will confirm your ROM configuration and final content before generating the layout. The content is fixed in the fabricated ROM; editing the simulation file changes the simulation only.
